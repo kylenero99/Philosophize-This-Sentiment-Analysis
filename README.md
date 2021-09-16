@@ -1,6 +1,6 @@
 # Philosophize-This-Sentiment-Analysis
 
-"Philiosophize This!" by Stephen West is by far my favorite podcast.
+"Philiosophize This!" is a philosophy podcast by Stephen West.
 
 Website link: https://www.philosophizethis.org/podcast
 
